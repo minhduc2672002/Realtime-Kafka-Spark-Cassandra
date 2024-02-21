@@ -1,0 +1,2 @@
+kafka-python==2.0.2
+apache-airflow-providers-apache-spark==2.1.3
